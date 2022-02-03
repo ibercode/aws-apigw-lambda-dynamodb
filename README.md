@@ -23,7 +23,7 @@ The lambda function will return the ID of the inserted object.
 
 Topology
 
-<img src="TicketTopology.png" alt="topology" width="100%"/>
+<img src="TicketTopology.png" alt="topology" width="80%"/>
 
 
 ## Deployment commands
